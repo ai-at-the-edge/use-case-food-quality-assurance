@@ -1,6 +1,8 @@
 # Use Case: Food Quality Assurance
 
-Reference code for [_AI at the Edge_](https://www.amazon.com/AI-Edge-Problems-Embedded-Learning/dp/1098120205/) by Daniel Situnayake & Jenny Plunkett
+Edge Impulse Public Project: https://studio.edgeimpulse.com/public/115652/latest
+
+Reference code for Chapter 12 of [_AI at the Edge_](https://www.amazon.com/AI-Edge-Problems-Embedded-Learning/dp/1098120205/) by Daniel Situnayake & Jenny Plunkett
 
 O'Reilly: https://www.oreilly.com/library/view/ai-at-the/9781098120191/  
 Amazon: https://www.amazon.com/AI-Edge-Problems-Embedded-Learning/dp/1098120205/  
